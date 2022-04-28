@@ -1,5 +1,6 @@
+//INSERINDO INFORMAÇÃO NO BANCO DE DADOS - MYSQL
 INSERT INTO usuarios(nome, email, idade) VALUES(
-    "Giulia",
-    "Giulia@gmail.com",
-    8
+    "ARTHUR",
+    "Arthur@gmail.com",
+    20
 );
