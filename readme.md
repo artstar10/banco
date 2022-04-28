@@ -1,0 +1,1 @@
+Pré-requisito para trabalhar com o banco de dados mysql
