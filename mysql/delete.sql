@@ -1,0 +1,2 @@
+//DELETANDO USUÁRIO "Arthur" NO BANCO DE DADOS - MYSQL
+DELETE FROM usuarios WHERE nome = "Arthur"
