@@ -1,6 +1,6 @@
 #### Banco de dados SGBD**  
 # repositório para praticar SGBD PostgreSQL
-  ![MySQL](https://img.shields.io/badge/-MySQL-333333?style=flat&logo=mysql)
+  ![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-333333?style=flat&logo=PostgreSQL)
   
   #
 ================================================================================
